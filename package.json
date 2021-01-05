@@ -13,7 +13,7 @@
     "@tinymce/tinymce-vue": "^1.1.0",
     "ali-oss": "^6.0.1",
     "async-validator": "^3.1.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "dayjs": "^1.8.16",
     "element-ui": "^2.4.7",
     "fundebug-javascript": "^1.5.1",
