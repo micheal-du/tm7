@@ -18,7 +18,7 @@
     "element-ui": "^2.4.7",
     "fundebug-javascript": "^1.5.1",
     "fuse.js": "^3.4.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "normalize.css": "^8.0.0",
     "tinymce": "^4.8.3",
     "vue": "^2.5.2",
